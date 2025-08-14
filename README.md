@@ -35,6 +35,8 @@ This approach is ideal for educational platforms, independent instructors, and e
 
 * **Module Name**: `MyModule::OnlineCourseAccess`
 * **Blockchain**: Aptos
-* **Contract Address**: `0xYOUR_DEPLOYED_CONTRACT_ADDRESS` *(replace with actual address after deployment)*
+* **Contract Address**: 0xa442d935d94e1751907080934025a67f9888a11a2319c07a6a34b0a454e27d8e
+<img width="1710" height="971" alt="Screenshot 2025-08-14 at 1 27 24 PM" src="https://github.com/user-attachments/assets/6389f6ba-9322-4e49-b715-6d5965b7c2b6" />
+
 
 ---
